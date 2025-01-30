@@ -1,75 +1,93 @@
-### Hi, I'm **Abdullah Al Rafi**! 👋  
-### IT Support & IoT Enthusiast | Tech Innovator | Problem Solver  
+<!-- Animated Header -->
+<div align="center">
+  <a href="https://github.com/xrafiy71">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=4F8CC9&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Abdullah+Al+Rafi;IT+Support+%26+IoT+Developer;Python+%7C+C%2B%2B+%7C+Web+Enthusiast;Building+Tomorrow's+Tech+Today" alt="Typing Animation">
+  </a>
+</div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=IT+Support+%26+IoT+Enthusiast;Passionate+Programmer;Tech+Explorer+%26+Learner)
-
-Welcome to my GitHub profile! I am an aspiring IT professional passionate about integrating technology with real-world applications. I specialize in programming, IoT, and IT support, aiming to build innovative and impactful solutions.
-
----
-
-## 🛠 Skills & Tools  
-
-### **Programming Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-
-### **Technologies & Tools**  
-![IoT](https://img.shields.io/badge/-Internet%20of%20Things-00A4EF?style=for-the-badge&logo=raspberrypi&logoColor=white)  
-![MicroPython](https://img.shields.io/badge/-MicroPython-2C2F33?style=for-the-badge&logo=python&logoColor=white)  
-![ESP32](https://img.shields.io/badge/-ESP32-FF6900?style=for-the-badge&logo=espressif&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-
-### **Soft Skills**  
-- Problem-Solving  
-- Creativity & Innovation  
-- Team Collaboration  
-- Debugging & Troubleshooting  
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/xrafiy71/xrafiy71/main/assets/line-neon.gif" width="100%">
+</div>
 
 ---
 
-## 🌟 Projects & Achievements  
+### 🚀 **About Me**  
+I’m a **10th-grade student** at **Kushtia Government Technical School & College**, specializing in **IT Support and IoT Basics**. With a passion for merging hardware and software, I develop scalable IoT systems and intuitive web interfaces. My work focuses on solving real-world problems through innovation, automation, and open-source collaboration.  
 
-### 🔹 **Smart Home Automation**  
-- Developed an IoT-based smart home system for remote monitoring and automation.  
-- **Technologies Used:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white), ![MicroPython](https://img.shields.io/badge/-MicroPython-2C2F33?style=flat-square&logo=python&logoColor=white)  
-
-### 🔹 **IoT-Based Weather Station**  
-- Created a weather monitoring system using ESP32 and MicroPython.  
-- **Technologies Used:** ![ESP32](https://img.shields.io/badge/-ESP32-FF6900?style=flat-square&logo=espressif&logoColor=white), ![IoT](https://img.shields.io/badge/-IoT-00A4EF?style=flat-square&logo=raspberrypi&logoColor=white)  
-
-### 🔹 **Tech Competition Participant (2024)**  
-- Represented my college in a national-level IT competition, showcasing my IoT skills.  
+**What defines me**:  
+- 🔧 **Problem Solver**: Breaking down complex challenges into actionable solutions.  
+- 🌐 **IoT Advocate**: Building smart systems with Python, MicroPython, and embedded devices.  
+- 📈 **Continuous Learner**: Expanding my expertise in full-stack development and AI integration.  
 
 ---
 
-## 🎓 Certifications  
+### 💻 **Technical Expertise**  
+#### **Programming & Development**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
+![MicroPython](https://img.shields.io/badge/MicroPython-2B5B84?logo=micropython&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)  
 
-- ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) **Introduction to Generative AI** (2023)  
-- ![IBM](https://img.shields.io/badge/-IBM-054ADA?style=flat-square&logo=ibm&logoColor=white) **Python for Data Science** (2022)  
-- ![VENUS IT](https://img.shields.io/badge/-VENUS%20IT-E65C00?style=flat-square&logo=codeigniter&logoColor=white) **Programming in Python** (2021)  
+#### **IoT & Hardware**  
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-FF6900?logo=espressif&logoColor=white)  
 
----
-
-## 🚀 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xrafiy71&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
-## 🤝 Let’s Connect!  
-
-I'm always open to tech collaborations, innovative discussions, and networking! Reach out to me:  
-- 🌐 **GitHub:** [github.com/xrafiy71](https://github.com/xrafiy71)  
-- 📧 **Email:** your-email@example.com  
-- 🔗 **LinkedIn:** [Your LinkedIn Profile]  
+#### **Web & Tools**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
 
 ---
 
-> Thank you for visiting my profile! Let’s build, innovate, and grow together. 🚀
+### 🏅 **Key Projects**  
+#### 1. **Smart Home Automation System**  
+- **Tech**: Python, MicroPython, Raspberry Pi, MQTT  
+- **Impact**: Automated lighting and security controls via a web dashboard.  
+- **Award**: Regional IoT Competition Finalist (2023).  
+
+#### 2. **AI-Powered Waste Segregator**  
+- **Tech**: Python, OpenCV, TensorFlow Lite, Arduino  
+- **Impact**: Automated waste sorting with 85% accuracy.  
+- **Recognition**: 3rd Place, District Science Fair (2024).  
+
+#### 3. **Student Portfolio Platform**  
+- **Tech**: React, TypeScript, CSS  
+- **Feature**: Responsive design with dynamic project showcases.  
+- **[Live Demo](https://your-portfolio-link.com)**  
+
+---
+
+### 📜 **Certifications**  
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=white) **Introduction to Generative AI**  
+![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white) **Python for Everybody**  
+![IBM](https://img.shields.io/badge/IBM-054ADA?logo=ibm&logoColor=white) **IoT Foundations**  
+
+---
+
+### 📊 **GitHub Analytics**  
+<div align="center">
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=xrafiy71&theme=dark&border_radius=5.5)  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xrafiy71&layout=compact&theme=dark&border_radius=5.5)  
+
+</div>
+
+---
+
+### 📬 **Connect With Me**  
+<div align="center">
+  
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:abdullahalrafi.work@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/xrafiy71)
+
+</div>
+
+<!-- Animated Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F8CC9&height=100&section=footer&fontSize=30&fontColor=ffffff" />
+</div>
