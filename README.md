@@ -1,71 +1,75 @@
-<!-- Animated Header with Gradient Text -->
-<h1 align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Abdullah+Al+Rafi;IT+%26+IoT+Developer;Python+%7C+C%2B%2B+%7C+MicroPython;Full-Stack+Enthusiast;Open-Source+Contributor" alt="Typing Animation" />
-  </a>
-</h1>
+### Hi, I'm **Abdullah Al Rafi**! 👋  
+### IT Support & IoT Enthusiast | Tech Innovator | Problem Solver  
 
-<!-- Animated Divider -->
-<div align="center">
-  <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-</div>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=IT+Support+%26+IoT+Enthusiast;Passionate+Programmer;Tech+Explorer+%26+Learner)
 
-<!-- Profile Summary -->
+Welcome to my GitHub profile! I am an aspiring IT professional passionate about integrating technology with real-world applications. I specialize in programming, IoT, and IT support, aiming to build innovative and impactful solutions.
+
+---
+
+## 🛠 Skills & Tools  
+
+### **Programming Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+
+### **Technologies & Tools**  
+![IoT](https://img.shields.io/badge/-Internet%20of%20Things-00A4EF?style=for-the-badge&logo=raspberrypi&logoColor=white)  
+![MicroPython](https://img.shields.io/badge/-MicroPython-2C2F33?style=for-the-badge&logo=python&logoColor=white)  
+![ESP32](https://img.shields.io/badge/-ESP32-FF6900?style=for-the-badge&logo=espressif&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+
+### **Soft Skills**  
+- Problem-Solving  
+- Creativity & Innovation  
+- Team Collaboration  
+- Debugging & Troubleshooting  
+
+---
+
+## 🌟 Projects & Achievements  
+
+### 🔹 **Smart Home Automation**  
+- Developed an IoT-based smart home system for remote monitoring and automation.  
+- **Technologies Used:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white), ![MicroPython](https://img.shields.io/badge/-MicroPython-2C2F33?style=flat-square&logo=python&logoColor=white)  
+
+### 🔹 **IoT-Based Weather Station**  
+- Created a weather monitoring system using ESP32 and MicroPython.  
+- **Technologies Used:** ![ESP32](https://img.shields.io/badge/-ESP32-FF6900?style=flat-square&logo=espressif&logoColor=white), ![IoT](https://img.shields.io/badge/-IoT-00A4EF?style=flat-square&logo=raspberrypi&logoColor=white)  
+
+### 🔹 **Tech Competition Participant (2024)**  
+- Represented my college in a national-level IT competition, showcasing my IoT skills.  
+
+---
+
+## 🎓 Certifications  
+
+- ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) **Introduction to Generative AI** (2023)  
+- ![IBM](https://img.shields.io/badge/-IBM-054ADA?style=flat-square&logo=ibm&logoColor=white) **Python for Data Science** (2022)  
+- ![VENUS IT](https://img.shields.io/badge/-VENUS%20IT-E65C00?style=flat-square&logo=codeigniter&logoColor=white) **Programming in Python** (2021)  
+
+---
+
+## 🚀 GitHub Stats  
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4F8CC9&center=true&vCenter=true&width=500&lines=🎓+Student+at+Kushtia+Govt+Technical+School;💡+IoT+%26+Embedded+Systems+Developer;🌐+Web+Development+%7C+TypeScript+%7C+React;🚀+Open+to+Collaborate+on+Innovative+Projects" alt="Typing Stats" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=xrafiy71&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<!-- Tech Stack Cards -->
-<h2 align="center">🛠️ Tech Stack</h2>
-<div align="center">
-  
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/MicroPython-2B5B84?style=for-the-badge&logo=micropython&logoColor=white" />
-  
-  <!-- Web Development -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  
-  <!-- Tools & Frameworks -->
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+---
 
-</div>
+## 🤝 Let’s Connect!  
 
-<!-- GitHub Stats with Animation -->
-<h2 align="center">📈 GitHub Stats</h2>
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=dark&border_radius=5.5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark&border_radius=5.5)
+I'm always open to tech collaborations, innovative discussions, and networking! Reach out to me:  
+- 🌐 **GitHub:** [github.com/xrafiy71](https://github.com/xrafiy71)  
+- 📧 **Email:** your-email@example.com  
+- 🔗 **LinkedIn:** [Your LinkedIn Profile]  
 
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&border_radius=5.5)
+---
 
-</div>
-
-<!-- Contact Section with Animated Icons -->
-<h2 align="center">📫 Let's Connect</h2>
-<p align="center">
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
-
-<!-- Animated Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4F8CC9&height=100&section=footer&text=Thanks+for+Visiting!&fontSize=30&fontColor=ffffff&animation=fadeIn" />
-</div>
+> Thank you for visiting my profile! Let’s build, innovate, and grow together. 🚀
